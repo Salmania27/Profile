@@ -10,6 +10,17 @@ nav {
 	background-color: black;
 	color: white;
 }
+
+ul {
+	margin: 0;
+	padding-top: 16px;
+	float: right;
+	padding-right: 35px;
+}
+
+nav img {
+	padding-top: 8px;
+}
 	
 li {List-style-type: none; display: inline-block; padding: 0 8px;
 	
