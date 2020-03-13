@@ -1,7 +1,15 @@
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	margin: 0;
 	padding: 0;
 	font-family: 'Abel', sans-serif;
+}
+
+#no-body {
+	height: 60px;
 }
 nav {
 	width: 100%;
@@ -9,6 +17,7 @@ nav {
 	padding: 0 1 rem;
 	background-color: black;
 	color: white;
+	position: fixed;
 }
 
 ul {
